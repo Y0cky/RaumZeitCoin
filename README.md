@@ -1,3 +1,3 @@
-FooCoin (FOO)
+RaumZeitCoin
 
-Blah, blah, blah.
+Its the future!
